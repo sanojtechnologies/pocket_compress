@@ -1,111 +1,61 @@
 # Privacy Policy for Offline Compressor
 
-**Last Updated**: October 2, 2025  
+**Last Updated**: October 21, 2026
 **Published by**: Sanoj Technologies
 
-## Introduction
+## Summary
 
-Welcome to Offline Compressor, developed and published by Sanoj Technologies ("we", "our", or "us"). We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you about how we handle your data when you use our mobile application.
+Offline Compressor compresses your photos and PDFs on your phone. Your files are never uploaded. We have no accounts and no servers that receive your data. The app is free and shows ads from Google AdMob. Google's ad software collects some device data to show and measure ads, as described below.
 
-## Information We Collect
+## Your files stay on your device
 
-### Data Stored Locally
-- **Compression Job History**: Information about your compression jobs including file paths, file types, compression settings, job status, file sizes, and timestamps
-- **Compressed Files**: The compressed output files you create are stored locally in the app's documents directory
-- **App Preferences**: Display settings, compression presets, and other app configuration options
+- The photos and PDFs you choose are read and compressed on your phone only. They are never uploaded or sent over the network.
+- Compressed copies are kept in the app's private storage, and removed automatically after 14 days. Copies you save to Downloads or share stay where you put them.
+- If you open a password-protected PDF, the password is used only on your phone, only to open that file. It is never stored or sent anywhere.
+- By default, photos have their location and camera details removed. You can change this in Settings.
 
-### Data We DO NOT Collect
-- We do NOT collect any personal information
-- We do NOT collect your name, email, or contact information
-- We do NOT track your location
-- We do NOT access or transmit the contents of your files to any external servers
-- We do NOT share any data with third parties
-- We do NOT use analytics or tracking services
-- We do NOT use cookies (web version)
+## Data stored only on your device
 
-## How We Use Your Data
+- **History**: file names, sizes, settings used, status and dates of your compressions, so you can see past results
+- **Preferences**: your size choice, sounds on or off, and similar settings
 
-- **Compression Jobs**: Job history is stored locally to help you track your compression activities and view statistics
-- **Compressed Files**: Output files are saved locally so you can access, share, or export them
-- **Preferences**: Saved locally to remember your compression settings and display preferences
+You can clear the history in the app at any time. Uninstalling the app removes everything it stored.
 
-## Data Storage
+## Advertising (Google AdMob)
 
-All data is stored locally on your device using:
-- **Mobile**: Device local storage (SQLite database for job history, app documents directory for compressed files, SharedPreferences for settings)
-- **Web**: Browser LocalStorage and IndexedDB (if applicable)
+The app shows ads served by Google AdMob, a Google service. To show ads, measure them and prevent fraud, Google's Mobile Ads SDK collects and shares the following automatically:
 
-## Data Processing
+- **Device identifiers**: the Android advertising ID and app set ID
+- **IP address**, which can be used to estimate your general location
+- **App interactions**: for example app launches, taps and ad views
+- **Diagnostic information**: for example app launch time and performance
 
-**Important**: All file compression and processing happens entirely on your device. Your files are never uploaded to any server or transmitted over the network. The app works completely offline.
+This data is encrypted in transit. Google processes it under its own privacy policy: https://policies.google.com/privacy. How Google uses data from apps that use its services: https://policies.google.com/technologies/partner-sites
 
-## Data Retention
+Ads need an internet connection. Compression never does.
 
-- **Compression History**: Persists until you:
-  - Clear the app history
-  - Uninstall the app
-  - Clear app data/cache
-- **Compressed Files**: Stored in the app documents directory until you:
-  - Delete them manually
-  - Uninstall the app
-  - Clear app data/cache
+**Your choices**: you can reset or delete your advertising ID, or opt out of personalised ads, in your phone's settings (Settings → Google → Ads, or Settings → Privacy → Ads, depending on your phone).
 
-## File Access Permissions
+## Permissions
 
-The app requires file access permissions to:
-- Read files you select for compression (images and PDFs)
-- Save compressed output files to your device
-- Access your photo library (for image selection)
+- **Photos and media / files**: to read the files you pick and save results to Downloads
+- **Notifications**: to show progress while a batch compresses in the background, and when files are ready
+- **Internet**: for ads only
 
-These permissions are used only for the functionality you request and are not used to access other files on your device.
+## Children
 
-## Children's Privacy
+The app is not directed at children under 13, and we do not knowingly collect personal information from children.
 
-Our app is suitable for all ages. We do not knowingly collect any personal information from children or anyone else.
+## Your rights
 
-## Your Rights
+We do not hold personal data about you on any server, so there is nothing for us to access, correct or delete. Your on-device data is under your control, as described above. For data processed by Google for advertising, see Google's privacy policy and controls.
 
-You have the right to:
-- Delete all your data by clearing app history or uninstalling the app
-- Delete individual compressed files at any time
-- Opt-out of any data collection (we don't collect any data anyway!)
-- Access your locally stored data through the app's history feature
+For users in the EU/UK (GDPR) and California (CCPA): we do not sell personal information. Advertising data is processed by Google as described above.
 
-## Third-Party Services
+## Changes
 
-We currently do NOT use any third-party services, analytics, or advertising networks. All processing is done using open-source libraries that operate entirely on your device.
+We may update this policy. The date at the top shows the latest version.
 
-## Changes to This Policy
+## Contact
 
-We may update this privacy policy from time to time. We will notify you of any changes by posting the new policy in the app or on our website.
-
-## Data Security
-
-All data is stored locally on your device and is subject to your device's security measures. Since all processing happens on-device, your files never leave your device during compression operations.
-
-## Contact Us
-
-If you have any questions about this Privacy Policy, please contact us at:
-- **Company**: Sanoj Technologies
-- **Email**: contact@sanojtechnologies.com
-- **Website**: https://sanojtechnologies.com
-
-## GDPR Compliance
-
-For users in the European Union:
-- We process no personal data
-- No data transfers occur (all processing is local)
-- No consent is required as no data is collected or transmitted
-- All file processing happens on your device
-
-## CCPA Compliance
-
-For California residents:
-- We do not sell personal information
-- We do not collect personal information
-- We do not share personal information with third parties
-- No opt-out is necessary
-
----
-
-**Summary**: Offline Compressor stores your compression job history and compressed files locally on your device only. All file compression happens entirely on your device - your files are never uploaded or transmitted anywhere. We do not collect, transmit, or share any of your data. Ever.
+Sanoj Technologies, contact@sanojtechnologies.com, https://sanojtechnologies.com
