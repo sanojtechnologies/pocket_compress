@@ -1,6 +1,6 @@
 # Privacy Policy for Offline Compressor
 
-**Last Updated**: October 21, 2026
+**Last Updated**: November 5, 2026
 **Published by**: Sanoj Technologies
 
 ## Summary
@@ -33,6 +33,8 @@ The app shows ads served by Google AdMob, a Google service. To show ads, measure
 This data is encrypted in transit. Google processes it under its own privacy policy: https://policies.google.com/privacy. How Google uses data from apps that use its services: https://policies.google.com/technologies/partner-sites
 
 Ads need an internet connection. Compression never does.
+
+**Consent**: in the European Economic Area, the UK and Switzerland, the app shows Google's consent form before any ad is requested. Where this applies, you can change your choice at any time with **Ad privacy settings** in the app's Settings.
 
 **Your choices**: you can reset or delete your advertising ID, or opt out of personalised ads, in your phone's settings (Settings → Google → Ads, or Settings → Privacy → Ads, depending on your phone).
 
